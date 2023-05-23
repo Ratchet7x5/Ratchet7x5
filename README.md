@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+## I'm Tarun and I'm a recent software development graduate from AUT. 
 <!--
 **Ratchet7x5/Ratchet7x5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
