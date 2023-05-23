@@ -1,5 +1,6 @@
 ### Hi there 👋
-## I'm Tarun and I'm a recent software development graduate from AUT. I recently completed part-time work on a R&D project at my university and I'm now on the hunt for a backend graduate software development role. 
+## I'm Tarun and I'm a recent software development graduate from AUT. 
+I recently completed part-time work on a R&D project at my university and I'm now on the hunt for a backend graduate software development role. 
 <!--
 **Ratchet7x5/Ratchet7x5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
